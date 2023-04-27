@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Jackie Cheung.
-
-<img src="https://static.wixstatic.com/media/85f9a0_c7744d8f49e847afa7c26a658ee8a981~mv2.png/v1/fill/w_498,h_332,al_c,usm_0.66_1.00_0.01/85f9a0_c7744d8f49e847afa7c26a658ee8a981~mv2.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 498px; height: 321px; margin: 0px; width: 482px;" alt="WWF Winged World Heavyweight Wrestling Championship Belt (4mm Zinc) | CSB" jsname="kn3ccd" aria-hidden="false">
-
+<img src="https://media.licdn.com/dms/image/C5612AQHDjmGWjjqiWw/article-cover_image-shrink_423_752/0/1593339082768?e=1687996800&amp;v=beta&amp;t=BwC991KXyV8UCiN2KjwNJyJG1mlto13VB7r94sKZawI" loading="lazy" alt="" id="ember23" class="reader-cover-image__img lazy-image ember-view">
 
 **JackieC1993/JackieC1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
