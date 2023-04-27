@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jackie Cheung.
+
 <img src="https://media.licdn.com/dms/image/C5612AQHDjmGWjjqiWw/article-cover_image-shrink_423_752/0/1593339082768?e=1687996800&amp;v=beta&amp;t=BwC991KXyV8UCiN2KjwNJyJG1mlto13VB7r94sKZawI" loading="lazy" alt="" id="ember23" class="reader-cover-image__img lazy-image ember-view">
 
 <h1 align="center">Hi 👋, I'm Jackie Cheung</h1>
