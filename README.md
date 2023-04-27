@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cb5c919f283e4b45f3599f7e3660a621.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1200px; height: 271px; margin: 0px; width: 482px;" alt="The Real Impact Of Pokémon Go's Changes That Niantic Won't Face" jsname="kn3ccd" aria-hidden="false">
 
 <img src="https://media.giphy.com/media/xO61YRkUGOBws/giphy.gif" alt="Dog Wife GIF - Find &amp; Share on GIPHY" width="345" height="200">
+<img src="https://assets1.ignimgs.com/2016/05/12/tk2g5hdyx8h6xkq2helcpng-6da69e_160w.png?width=1280" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1280px; height: 271px; margin: 0px; width: 482px;" alt="How to Trade Pokemon Between Every Generation - IGN" jsname="kn3ccd" aria-hidden="false">
