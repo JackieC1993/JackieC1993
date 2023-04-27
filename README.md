@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackiec1993" alt="jackiec1993" /></a> </p>
 
-- 🔭 I’m currently working on **Dinosaur and Museum Project**
+- 🔭 I’m currently working on **GitHub Profile**
 
 - 🌱 I’m currently learning **PERN Stack**
 
