@@ -48,4 +48,3 @@
 
 <img src="https://static.tvtropes.org/pmwiki/pub/images/jackie_chan_adventures_2.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 350px; height: 292px; margin: 0px; width: 350px;" alt="Jackie Chan Adventures (Western Animation) - TV Tropes" jsname="kn3ccd" aria-hidden="false">
 
-<img src="https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQcHbxCjB7FY6Rttw1VZFdh0gIZmm4MLLjfmD0dhA11saxBKG_D49VVkmlvz3sE71-b" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 2048px; height: 344px; margin: 0px; width: 574px;" alt="undefined" jsname="kn3ccd" aria-hidden="false">
