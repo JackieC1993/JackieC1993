@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackiec1993" alt="jackiec1993" /></a> </p>
 
-- 🔭 I’m currently working on ** Getting a job, and Finishing accelerator program. **
+- 🔭 I’m currently working on **  finishing accelerator program, networking with other individuals and applying for a job. **
 
 - 🌱 I’m currently learning **PERN Stack**
 
